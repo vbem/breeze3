@@ -1,0 +1,12 @@
+{
+    "test_user_1" : {                         
+        "name"          : "测试账号有限公司1", 
+        "expire_date"   : "2015-12-30",   
+        "fingerprint"   : "79da2375362896f1ebf3a731fafbc48f"
+    },
+    "test_vm_1" : {
+        "name"          : "测试虚拟机账号1",
+        "expire_date"   : "2015-12-01",
+        "fingerprint"   : "dba2dc2d799cfd9dd022196f0ab275b8"
+    }
+}

@@ -1,0 +1,12 @@
+Module:   Breeze Server for HTTP JSON Service
+
+To stop:
+1) to check breeze server status:
+    netstat -lanp | fgrep --color=auto python
+2) kill PID 
+
+To Start:
+1) check in virtual environment:
+    . $HOME/breeze.venv/bin/active    
+2) nohup run 
+    nohup python server/breeze_server.py &> log/nohup.log &
